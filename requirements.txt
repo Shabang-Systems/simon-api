@@ -1,2 +1,2 @@
-simon-search==0.0.1.post4
+simon-search[web]==0.0.1.post4
 gunicorn
