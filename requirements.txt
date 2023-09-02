@@ -1,0 +1,2 @@
+simon-search==0.0.1.post4
+gunicorn
